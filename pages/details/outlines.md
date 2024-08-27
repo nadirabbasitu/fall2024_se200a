@@ -5,7 +5,7 @@ nav_order: 2
 description: >-
     Course parts
 ---
-<link rel="stylesheet" href="https://nadirabbasitu.github.io/fall2024-se200/assets/css/style.css">
+<link rel="stylesheet" href="https://nadirabbasitu.github.io/fall2024_se200a/assets/css/style.css">
 # Outlines
 {:.no_toc}
 

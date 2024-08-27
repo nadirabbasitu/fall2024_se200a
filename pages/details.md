@@ -6,7 +6,7 @@ has_children: true
 description: >-
     Course policies and information.
 ---
-{% assign imagePrefix = '/fall2024-se200/' %}
+{% assign imagePrefix = '/fall2024_se200a/' %}
 
 <link rel="stylesheet" href="{{ imagePrefix }}assets/css/style.css">
 
